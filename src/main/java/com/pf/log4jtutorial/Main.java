@@ -24,6 +24,6 @@ public class Main {
 		logger.log(Level.INFO, "INFO");
 		logger.log(Level.WARN, "WARN");
 		
-		System.out.println("SYSOUT");
+		System.out.println("SYSOUT WORK BRANCH");
 	}
 }
